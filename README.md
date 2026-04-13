@@ -1,6 +1,6 @@
 <!-- HEADER (RIMURU STYLE) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3f/15/ad/3f15ad3ab9ab529a639e455a6141a961.gif" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHppeWp6c3BpenQ2NW4wOG4zMG10M2lxNGFwMWE2aWV3NXgwbThhdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" height="200"/>
 </p>
 
 <!-- TYPING TITLE -->
@@ -9,7 +9,7 @@
 </div>
 
 <!-- RIMURU GIF -->
-<div align="right">
+<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQ2bm9hdmRtenFkM283Nm1xMGNkeXkwMnZ2eGxuNDhseXRieXVhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/riAnEhoDPDs9gwZ6bm/giphy.gif" width="250"/>
 </div>
 
@@ -89,7 +89,7 @@ I’m currently enrolled in an **intensive programming course**, strengthening m
   <a href="https://co.linkedin.com/in/jhohan-daniel-hernandez-velandia-816129232" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
   </a>
-  <a href="mailto:your-email-here">
+  <a href="mailto:jhernandez362@unab.edu.co">
     <img src="https://img.icons8.com/fluency/48/gmail.png"/>
   </a>
 </p>
