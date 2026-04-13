@@ -1,6 +1,6 @@
 <!-- HEADER (RIMURU STYLE) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3f/15/ad/3f15ad3ab9ab529a639e455a6141a961.gif" height="200"/>
+  <img src="https://i.pinimg.com/originals/3f/15/ad/3f15ad3ab9ab529a639e455a6141a961.gif](https://i.imgur.com/nCFBMSg.mp4" height="200"/>
 </p>
 
 <!-- TYPING TITLE -->
