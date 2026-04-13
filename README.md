@@ -1,6 +1,6 @@
 <!-- HEADER (RIMURU STYLE) -->
 <p align="center">
-  <img src="https://i.imgur.com/6Iej2c3.gif" height="200"/>
+  <img src="https://i.pinimg.com/originals/3f/15/ad/3f15ad3ab9ab529a639e455a6141a961.gif" height="200"/>
 </p>
 
 <!-- TYPING TITLE -->
@@ -109,5 +109,5 @@ I believe growth comes from stepping into the unknown and mastering it.
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/rimuru.gif" width="200"/>
+  <img src="https://giffiles.alphacoders.com/219/219353.gif" width="200"/>
 </p>
